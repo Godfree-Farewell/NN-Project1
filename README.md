@@ -46,8 +46,6 @@ NN_Project_Solution/
 │   ├── additional_experiments.py  # Part C 额外实验
 │   ├── test_basic.py              # 基本功能测试
 │   └── README.md                  # 代码说明文档
-├── report/
-│   └── project_report.md          # 项目报告
 └── README.md                      # 本文件
 ```
 
